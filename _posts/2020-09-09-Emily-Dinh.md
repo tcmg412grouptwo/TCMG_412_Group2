@@ -2,7 +2,7 @@
 layout: post
 title: Collaboration in DevOps
 --
-![Collaboration](https://sloanreview.mit.edu/content/uploads/2019/08/GEN-Maglio-Collaboration-645x460.jpg)
+![Collaboration](https://sloanreview.mit.edu/content/uploads/2019/08/GEN-Maglio-Collaboration-2400-1290x860.jpg)
 
 A Small Piece of What Collaboration is in DevOps
 -------
