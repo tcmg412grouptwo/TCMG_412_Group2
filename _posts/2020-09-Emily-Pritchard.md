@@ -3,7 +3,7 @@ layout: post
 title: The Four Pillars of Effective DevOps
 ---
 
-The Four Pillars of Effective DevOps are 
+<h2><b>The Four Pillars of Effective DevOps are </b>
 1. Collaboration
 2. Affinity
 3. Tools
@@ -14,3 +14,6 @@ All four of these pillars combined allow for the cultural and technical sides of
 Collaboration and Affinity are often looked over when glancing at all four pillars. Collaboration is when 2 or more individuals group together and work toward a specific goal to achieve a desired outcome. Affinity is not far from collaboration as it is the maintenance of those relationships. Tools are extremely important and focus on examining the structure, values, etc. of that organization. Lastly, scaling looks at the other three pillars and analyzes how they can grow and improve to be more beneficial for the organization.
 
 These four pillars directly impact software development through both cultural and technical matters. Although any one of these pillars can be used separately, it is the use of all of them together that makes devops effective and useful.
+
+<body style="background-color:#ADD8E6;">
+</body>
