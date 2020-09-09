@@ -3,13 +3,20 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Howdy!
+=====
 
-Reasons:
-- its great.
-- its a test.
+Welcome to our webpage! 
+-----
 
-## Other thoughts
+Each team member will discuss an idea or component of DevOps.
 
-This is great.
+**OUR TEAM**
+* Emily Dinh
+* Brandon Kimball
+* Michael Maldonado
+* Emily Pritchard
+* Matthew Swinney
+* Robert Wynn
+
+
