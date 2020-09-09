@@ -1,5 +1,5 @@
 # TCMG412 
 #
 
-This is a great new site.
+This website goes over different ideas of DevOps 
 p.s. gh-pages rock!
