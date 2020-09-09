@@ -4,10 +4,10 @@ title: About
 ---
 
 Howdy!
-=====
+
 
 Welcome to our webpage! 
------
+
 
 Each team member will discuss an idea or component of DevOps.
 
