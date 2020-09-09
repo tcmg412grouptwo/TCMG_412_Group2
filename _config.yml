@@ -9,3 +9,15 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-titles-from-headings
+defaults:
+  - scope:
+      path: some-path
+      layout: some_layout
+    values:
+      strip_title: true
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
