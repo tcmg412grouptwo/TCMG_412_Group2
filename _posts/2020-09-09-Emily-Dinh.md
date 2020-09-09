@@ -1,10 +1,12 @@
---
+---
 layout: post
 title: Collaboration in DevOps
---
+---
+
 ![Collaboration](https://sloanreview.mit.edu/content/uploads/2019/08/GEN-Maglio-Collaboration-2400-1290x860.jpg)
 
 A Small Piece of What Collaboration is in DevOps
+----
 
 Collaboration is one of the four pillars of DevOps. According to **Effective DevOps**, collaboration is the process of building  toward a specific outcome through the interactions, input, and support of multuple people. An example of this would be *pair programming* which is where two people are working on the exact same piece of code at the exact same time.
 Some other examples include:
