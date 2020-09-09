@@ -4,7 +4,7 @@ title: About
 ---
 
 Howdy!
-=====
+------
 
 Welcome to our webpage! 
 
