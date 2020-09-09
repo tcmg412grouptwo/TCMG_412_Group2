@@ -2,7 +2,7 @@
 layout: post
 title: Collaboration in DevOps
 --
-![Collaboration](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsloanreview.mit.edu%2Farticle%2Fin-search-of-the-collaboration-sweet-spot%2F&psig=AOvVaw2j4pfshw7TeLQjZI9cQNH9&ust=1599778761550000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiJormW3esCFQAAAAAdAAAAABAD)
+![Collaboration](https://sloanreview.mit.edu/content/uploads/2019/08/GEN-Maglio-Collaboration-2400-1290x860.jpg)
 
 A Small Piece of What Collaboration is in DevOps
 -------
