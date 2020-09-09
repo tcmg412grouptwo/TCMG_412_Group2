@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Howdy!
+**Howdy!**
 ------
 
 Welcome to our webpage! 
