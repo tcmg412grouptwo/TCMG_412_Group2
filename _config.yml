@@ -1,0 +1,11 @@
+# basic options
+title: DevOps 
+author: Group 2 
+email: Group2@gmail.com
+description: DevOps Info
+twitter_username: DevOps 
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
