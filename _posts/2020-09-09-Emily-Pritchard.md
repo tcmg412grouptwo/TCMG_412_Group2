@@ -10,7 +10,7 @@ The Four Pillars of Effective DevOps are:
 * Tools
 * Scaling
 
-![4 Pillars](https://3.bp.blogspot.com/-MJqmfFiibaA/VxNC2InXn3I/AAAAAAAAK7c/IsYESYd8jTI3PC2fACiLSCsErkfYqWyqACLcB/s640/DevOps.JPG)
+![4 Pillars](https://devops.com/wp-content/uploads/2020/04/devops-1280x720.jpg)
 
 All four of these pillars combined allow for the cultural and technical sides of your organization to be connected. Although each pillar is of the same importance, it is the most beneficial for an organization to focus directly on one or two pillars at a time when making changes. All four of the pillars working together is ultimately the most effective. 
 
