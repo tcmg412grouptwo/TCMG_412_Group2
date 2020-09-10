@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker Misconceptions 
+title: DevOps Misconceptions 
 ---
 
 ![DevOps](http://www.jirehtechconsulting.com/control/wp-content/uploads/2017/11/Devops-Cycle-01.png)
