@@ -11,3 +11,5 @@ The same Docker images are used by system administrators who make updates to the
 
 As a result, you can make immutable dev, staging, and production environments. There are several benefits of using this approach. First of all, there is a high level of control over all changes, because changes are made using immutable Docker images and containers. You can roll back to the previous version at any moment. Development, staging, and production environments become more similar to each other than with Ansible. Using Docker, you can guarantee that if a feature works in the development environment, it will work in staging and production, too.settings.
 
+
+![Docker](https://blog.xebialabs.com/wp-content/uploads/2019/05/docker-e1558536954364.jpg)
