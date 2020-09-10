@@ -3,7 +3,7 @@ layout: post
 title: Docker Misconceptions 
 ---
 
-![DevOps](http://www.jirehtechconsulting.com/control/wp-content/themes/jirehtech/inc/timthumb/timthumb.php?src=http://www.jirehtechconsulting.com/control/wp-content/uploads/2017/11/Devops-Cycle-01.png&zc=2&q=100&w=761&h=496)
+![DevOps]
 
 When speaking of devops it's important to include the misconceptions because this allows us to understand what the concept is not and also what to stray away from as an organization. Too many times you see organizations allow certain actions because the output of productivity is still high, but in the long run these actions may have a negative effect on the organization and trickle down to the teams. 
 One main misconception is that devops is "A team". The whole goal of devops is to coincide the development and operations groups to work together seamlessly. Now you can title this change as new "Team", but this really is just a statement. To make this change actually have an effect and see performance through the Dev and Ops collaboration you need to change the environment and culture. One specific way to accomplish this change is by identifying and implementing clear roles and responsibilities for each team so they can seamlessly work in growing the company.
