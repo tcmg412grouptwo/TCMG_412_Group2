@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collaboration in DevOps
+title: DevOps vs Dev Ops
 ---
 Some differences of having Dev Ops together and seperate.
 
