@@ -3,15 +3,12 @@ layout: page
 title: About
 ---
 
-**Howdy!**
+# **Howdy!**
 ------
 
 Welcome to our webpage! 
 
-
-Each team member will discuss an idea or component of DevOps.
-
-**OUR TEAM**
+## **OUR TEAM**
 * Emily Dinh
 * Brandon Kimball
 * Michael Maldonado
