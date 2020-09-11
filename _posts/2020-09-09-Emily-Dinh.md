@@ -20,6 +20,7 @@ Some other examples include:
 The benefit of having a very diverse team is that there are going to be different view points and experiences that can help aid in finding the best possible solution a team can have. With a diverse team, there are different levels of creativity, problem solving, and productivity so there will be some conflicts, but as long as everyone has a mutual respect towards each team member, then this can help build mutual understading and resolve possible conflicts.
 
 By having a diverse team doesn't necessarily mean having more women or difference races on a team, even though these are some ways to make a team more diverse another factor are people's cognitive styles. Cognitive style is how people think about things, how they learn and understand information, and how they mentally engage with their work, environment, and others. 
+
 Some difference key styles include:
 * Introvert, ambivert, and extrovert
 * Asker vs. guesser
