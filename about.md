@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![Logo](https://brandguide.tamu.edu/assets/img/logos/tam-box-logo.png)
+![Logo](https://i.pinimg.com/originals/98/be/7a/98be7a82914083e165e67fe3f80b4665.png)
 # **Howdy!**
 
 Welcome to our webpage! 
